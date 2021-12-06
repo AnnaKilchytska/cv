@@ -1,0 +1,27 @@
+body {
+  background-color: #EAF6F6;
+  font-family: arial;
+}
+
+hr {
+  border-style: dotted none none;
+  background-color: inherit;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+h3 {
+    color: #66BFBF;
+    font-style: italic;
+    text-shadow: 1px 1px #22577A;
+}
+h1 {
+  color: #66BFBF;
+  font-style: italic;
+  text-shadow: 1px 1px #22577A;
+}
+
+a {
+  color: #66BFBF;
+}
